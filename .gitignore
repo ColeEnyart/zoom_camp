@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 .venv/
+data_pgadmin/
 ny_taxi_postgres_data/
 *.csv
 *.csv.gz
