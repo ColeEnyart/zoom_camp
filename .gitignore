@@ -2,5 +2,8 @@
 .venv/
 data_pgadmin/
 ny_taxi_postgres_data/
+terraform/.terraform
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate
 *.csv
 *.csv.gz
